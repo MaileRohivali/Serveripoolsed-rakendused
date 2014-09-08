@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Paris</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link href='http://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
+  </head>
+  <body>
+	<container>
+		<header>
+			<div class="logo">
+				<h1>Le Café Parisien.</h1>
+				<p>A little cafeteria in Hoxton, London</p>
+			</div>
+			<nav>
+				<div class="input">
+					<input >
+						<img src="#">
+					<ul class="lang">
+						<li>ENG</li>
+						<li>FRA</li>
+						<li>ITA</li>
+					</ul>
+				</div>
+				<ul class="menu">
+					<li>Home</li>
+					<li>Products</li>
+					<li>Blog</li>
+					<li>About</li>
+					<li>Contact</li>
+				</ul>
+			</nav>
+		</header>
+		<main>
+			<div class="frontbox">
+				<div class="box">
+					<h1>This is my very first blog post</h1>
+					<p>31. märts, 2014</p>
+				</div>
+				<div class="box">
+					<h1>How I wrote my first article</h1>
+					<p>June 27, 2014</p>
+				</div>
+				<div class="box">
+					<h1>10 best ways to write a blog post</h1>
+					<p>May 27, 2014</p>
+				</div>
+				<div class="box">
+					<h1>Having sample news pieces?</h1>
+					<p>April 25, 2014</p>
+				</div>
+			</div>
+			<article>
+				<h2>A better way to create a website</h2>
+				<p>Introduce your company (or yourself) here. Click around, try out how to edit text, choose a different design theme, upload pictures etc. This site is fully customizable — you can add, delete, modify any text or pictures as you desire.</p>
+			</article>
+		</main>
+		<footer>
+			<div class="copyright">
+				<p>© My Company 2012. Visit us at 1192 Cambridge Street, Cambridge, MA 02139
+Call us +1 617-576-1950  Email us at email@yourname.com</p>
+			</div>
+			<div class="promo">
+				<p>Create multilingual
+websites with Edicy</p>
+			</div>
+		</footer>
+	</container>
+</body>
