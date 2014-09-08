@@ -1,0 +1,41 @@
+body {
+	background-image: url('images/body-bg.jpeg');
+	margin: 0;
+}
+h1, h2, h3, h4, a, p {
+	font-family: Lato, Arial;
+}
+h1{
+	font-size:34px;
+}
+h2{
+	font-size: 
+}
+h3{
+	font-size: 
+}
+p{
+	font-size: 18px;
+}
+header{
+	background:white;
+	height: 100px;
+	padding: 30px 15px;
+}
+.logo{
+	float: left;
+}
+.logo h1{
+	color:red;
+	font-weight: normal;
+}
+
+nav{
+	float: right;
+}
+.input{
+	display: inline-flex;
+}
+.lang{
+	display: flex;
+}
